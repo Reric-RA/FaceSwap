@@ -1,9 +1,9 @@
 # FaceSwap
 Swap face between two photos for Python 3 with OpenCV and dlib.
 
-## Get Started
+## Get Started, tested by Horace, 2022.07.25
 ```sh
-python main.py --src imgs/test6.jpg --dst imgs/test7.jpg --out results/output6_7.jpg --correct_color
+python3 main.py --src imgs/test6.jpg --dst imgs/test7.jpg --out results/output6_7.jpg --correct_color
 ```
 
 | Source | Destination | Result |
